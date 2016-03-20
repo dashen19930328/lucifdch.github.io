@@ -180,8 +180,3 @@ $('.className').click(function(){
     <br>咦，这个结尾怪怪的……
 
 </div>
-
-
-
-
-
