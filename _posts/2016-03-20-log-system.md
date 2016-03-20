@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "始记"
-subtitle:   "创建博客后的第一篇文章"
+title:      "基于ELK的客户端日志系统搭建"
+subtitle:   "追踪bug、用户行为分析的基础，日志系统"
 date:       2016-03-20
 author:     "Lucifd"
 header-img: "img/header-post/2016-03-20-01.jpg"
