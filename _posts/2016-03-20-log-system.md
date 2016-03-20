@@ -6,8 +6,11 @@ date:       2016-03-20
 author:     "Lucifd"
 header-img: "img/header-post/2016-03-20-01.jpg"
 tags:
-	- Android
-	- ELK
+    - hUX 随想录
+    - UX Design
+    - Windows
+    - Metro
+    - OS
 ---
 
 ## 安装logstash,elasticsearch,kibana(基于osx 10.11.3)
