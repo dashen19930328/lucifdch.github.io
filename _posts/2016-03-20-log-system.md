@@ -11,7 +11,6 @@ tags:
     - 架构
 ---
 
-
 ## 安装logstash,elasticsearch,kibana(基于osx 10.11.3)
 
 1. 上官网下载最新版本(我使用的是logstash-2.2.0、elasticsearch-2.2.1、kibana-4.4.2-darwin-x64)
