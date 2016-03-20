@@ -1,13 +1,12 @@
 ---
-layout:     keynote
-title:      "都 2015 年了，CSS 怎么还是这么糟糕"
-subtitle:   "Keynote: CSS Still Sucks 2015"
-iframe:     "http://huangxuan.me/css-sucks-2015/"
-date:       2015-12-28
-author:     "Hux"
+layout:     post
+title:      "始记"
+subtitle:   "创建博客后的第一篇文章"
+date:       2016-03-20
+author:     "Lucifd"
+header-img: "img/header-post/2016-03-20-01.jpg"
 tags:
-    - 前端开发
-    - CSS
+    - 杂记
 ---
 
 ## 忆
