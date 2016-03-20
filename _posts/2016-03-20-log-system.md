@@ -8,7 +8,6 @@ header-img: "img/header-post/2016-03-20-01.jpg"
 tags:
 	- Android
 	- ELK
-    - 架构
 ---
 
 ## 安装logstash,elasticsearch,kibana(基于osx 10.11.3)
