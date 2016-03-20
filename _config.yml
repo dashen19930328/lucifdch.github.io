@@ -1,5 +1,5 @@
 # Site settings
-title: Lucifd Blog
+title: Lucifd.CH
 SEOTitle: C.H的博客 | Lucifd Blog
 header-img: img/home-bg.jpg
 email: lucifd@sina.cn
@@ -59,10 +59,10 @@ disqus_username: lucifd
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -80,9 +80,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
+# friends: [
     # {
     #     title: "名称",
     #     href: "url"
     # }
-]
+# ]
