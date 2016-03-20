@@ -4,7 +4,7 @@ title:      "博客第一篇文章"
 subtitle:   "First	Blood Of The Blog"
 date:       2016-03-20 19:45:33
 author:     "Lucifd"
-header-img: "/img/header-post/2016_03_20_01.jpg"
+header-img: "img/header-post/2016_03_20_01.jpg"
 header-mask: 0.3
 tags:
     - 杂记
