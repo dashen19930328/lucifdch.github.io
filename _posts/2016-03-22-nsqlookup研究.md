@@ -2,7 +2,7 @@
 layout:     post
 title:      "nsq研究"
 subtitle:   "nsqlookup模块"
-date:       2016-02-22
+date:       2016-03-22
 author:     "Lucifd"
 header-img: "img/header-post/2016-03-20-01.jpg"
 tags:
